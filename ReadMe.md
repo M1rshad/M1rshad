@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Abdulla Mirshad C L<br>I'm a Python Developer with a focus on building web applications using Django and React. Self-taught and passionate about delivering efficient, user-friendly solutions, I have experience in PostgreSQL, MongoDB, and deployment with AWS and Nginx.<br><br>🔧 Tech Stack:<br><br>Languages: Python, JavaScript, HTML, CSS<br>Frameworks/Libraries: Django, React, Bootstrap<br>Databases: PostgreSQL, MongoDB<br>DevOps: AWS, Nginx<br>Tools: Git, Figma, VS Code<br>🚀 Projects:<br>Check out my work on the UrbanWrap e-commerce platform, featuring advanced search, payment options, and a custom admin panel.<br><br>🔗 Connect with Me:<br><br>LinkedIn<br>GitHub<br>
-
+👋 Hi, I'm Abdulla Mirshad C L<br>I'm a Python Developer with a focus on building web applications using Django and React. Self-taught and passionate about delivering efficient, user-friendly solutions, I have experience in PostgreSQL, MongoDB, and deployment with AWS and Nginx.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirshumirshad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullamirshad) 
